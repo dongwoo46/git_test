@@ -1,4 +1,4 @@
-### HOT WINTER
+### Git use
    
 1. 내용을 수정한다 파일을 그다음 저장
 2. git add 파일명 해서 파일을  stage에 올린다
